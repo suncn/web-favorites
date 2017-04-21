@@ -1,5 +1,5 @@
-## 前端网址收藏
-[@京东用户体验设计部](http://aotu.io)
+## 前端网站
+[京东用户体验设计部](http://aotu.io)
 
 [MDN](https://developer.mozilla.org/zh-CN/)
 ## 问答社区
