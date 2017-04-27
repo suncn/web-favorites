@@ -13,7 +13,7 @@
 
 ## 网址收藏
 
-[you-get](https://you-get.org/)
+[you-get 视频下载利器](https://you-get.org/)
 
 [css命名规则-知乎泡泡](https://www.zhihu.com/question/54962942/answer/142062359)
 
